@@ -1,9 +1,10 @@
 # Comic CSS Grid Elemental
 
 **`¡HOLA MUNDO! 👋🏼`**
+
              
 
-![Portafolio - Cover](https://github.com/ivansanguezax/CSSGridElemental/blob/5697acbfcdae8c9acc6beb06cc69b3f373d5cf6e/mainReadme.png "Comic-cover ")
+![Comic-Elemental](https://github.com/ivansanguezax/CSSGridElemental/blob/5697acbfcdae8c9acc6beb06cc69b3f373d5cf6e/mainReadme.png "Comic-cover ")
 
 ## Descripción
 
